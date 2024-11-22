@@ -78,7 +78,7 @@ body {
 }
 
 .dropdown-content li a:hover {
-    background-color: lightblue;
+    background-color: rgb(109, 230, 139);
     color: white;
 }
 
